@@ -1,0 +1,14 @@
+{
+  "name": "nba-api",
+  "version": "1.0.0",
+  "description": "we're just calling an api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nba": "^4.15.0"
+  }
+}
